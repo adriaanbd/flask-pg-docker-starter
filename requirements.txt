@@ -6,3 +6,7 @@ flask
 # dev/tests
 pytest
 pycrunch-engine
+pytest-cov
+black
+isort
+flake
